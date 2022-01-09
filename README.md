@@ -1,3 +1,5 @@
+#Some new content
+
 # Medium Blog Kafka Udemy
 This is the source code supporting the blog post:
 
